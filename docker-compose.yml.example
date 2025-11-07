@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   xilriws:
     image: ghcr.io/unownhash/xilriws-rotating:main
