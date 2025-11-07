@@ -11,7 +11,7 @@ if TYPE_CHECKING:
     from .extension_comm import ExtensionComm
 
 
-PROXY_TIMEOUT = 60 * 60
+PROXY_TIMEOUT = 5 * 5
 
 
 class Proxy:
